@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TUGAS UAS PV JASTIP TIKET KONSER DI EUDORA
+</name>
+</assembly>
+<members>
+<member name="T:TUGAS_UAS_PV_JASTIP_TIKET_KONSER_DI_EUDORA.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TUGAS_UAS_PV_JASTIP_TIKET_KONSER_DI_EUDORA.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TUGAS_UAS_PV_JASTIP_TIKET_KONSER_DI_EUDORA.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>
